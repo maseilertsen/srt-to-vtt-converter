@@ -18,7 +18,7 @@ A Python tool for converting SRT (SubRip Subtitle) files to VTT (Web Video Text 
 
 1. Clone the repository:
     ```bash
-    git clone link
+    git clone https://github.com/maseilertsen/srt-to-vtt-converter.git
     ```
 
 2. Install dependencies:
@@ -32,7 +32,7 @@ A Python tool for converting SRT (SubRip Subtitle) files to VTT (Web Video Text 
 
 ### Command Line:
 ```bash
-python converter.py input.srt output.vtt
+python srt-to-vtt-converter_v01.py
 ```
 ### Finder
 - Navigate to file
