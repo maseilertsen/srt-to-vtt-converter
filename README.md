@@ -35,5 +35,5 @@ A Python tool for converting SRT (SubRip Subtitle) files to VTT (Web Video Text 
 python srt-to-vtt-converter_v01.py
 ```
 ### Finder
-- Navigate to file
-- Double press the `srt-to-vtt-converter_v01.py` file. 
+- Navigate to file `srt-to-vtt-converter_v01.py` file. 
+- Run in prefered python environment. 
